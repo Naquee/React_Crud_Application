@@ -1,0 +1,21 @@
+{
+  "User": [
+    {
+      "id": "b0a7",
+      "title": "Md Naquee",
+      "status": true
+    },
+    {
+      "id": "93ac",
+      "title": "Jhon Doe",
+      "status": true
+    }
+  ],
+  "data": [
+    {
+      "id": "1",
+      "title": "Hellow",
+      "status": false
+    }
+  ]
+}
